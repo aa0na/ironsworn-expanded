@@ -1,0 +1,42 @@
+{
+  "id": "ironsworn-expanded",
+  "title": "Ironsworn: Expanded",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14",
+    "manifest": "https://gitlab.com/aa0na/ironsworn-expanded/releases/latest/download/module.json",
+    "download": "https://gitlab.com/aa0na/ironsworn-expanded/releases/download/1.0.0/module.zip"
+  },
+  "description": "<p>This contains additional items from the Loadstar Expanded.</p>",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "ironsworn-expanded-items",
+      "label": "Ironsworn Expanded Items",
+      "path": "packs/ironsworn-expanded-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "foundry-ironsworn",
+      "flags": {}
+    },
+    {
+      "name": "ironsworn-expanded-oracles",
+      "label": "Ironsworn Expanded Oracles",
+      "path": "packs/ironsworn-expanded-oracles",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "foundry-ironsworn",
+      "flags": {}
+    }
+  ],
+  "action": "manageModule"
+}
