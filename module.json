@@ -5,8 +5,8 @@
   "compatibility": {
     "minimum": "13",
     "verified": "14",
-    "manifest": "https://github.com/aa0na/ironsworn-expanded/blob/main/module.json",
-    "download": "https://github.com/aa0na/ironsworn-expanded/blob/main/ironsworn-expanded.zip"
+    "manifest": "https://github.com/aa0na/ironsworn-expanded/raw/refs/heads/main/module.json",
+    "download": "https://github.com/aa0na/ironsworn-expanded/raw/refs/heads/main/ironsworn-expanded.zip"
   },
   "description": "<p>This contains additional items from the Loadstar Expanded.</p>",
   "flags": {
