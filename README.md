@@ -103,3 +103,7 @@ or copy into custom folders as desired
 
 * Moves need to be in a folder called **Custom Moves**
 * Oracles need to be in a folder called **Custom Oracles**
+
+## Credits
+
+Ironsworn by Shawn Tomkin from [Ironsworn](https://tomkinpress.com/pages/ironsworn) and [Ironsworn: Delve](https://tomkinpress.com/pages/ironsworn-delve) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
