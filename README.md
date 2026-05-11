@@ -24,10 +24,22 @@ https://github.com/aa0na/ironsworn-expanded/releases/latest/download/module.json
 
 ### Items
 
-* ![Moves](https://github.com/aa0na/ironsworn-expanded/blob/main/docs/moves.png?raw=true)
-* ![Site Domain](https://github.com/aa0na/ironsworn-expanded/blob/main/docs/site_domain.png?raw=true)
-* ![Site Theme](https://github.com/aa0na/ironsworn-expanded/blob/main/docs/site_theme.png?raw=true)
+<details>
+  <summary>Custom Moves</summary>
+  <img src="https://github.com/aa0na/ironsworn-expanded/blob/main/docs/moves.png">
+</details>
+
+<details>
+  <summary>Custom Site Domain</summary>
+  <img src="https://github.com/aa0na/ironsworn-expanded/blob/main/docs/site_domain.png">
+</details> 
+
+<details>
+  <summary>Custom Site Theme</summary>
+  <img src="https://github.com/aa0na/ironsworn-expanded/blob/main/docs/site_theme.png">
+</details>
 
 ### Oracles
 
 By default, the Ironsmith Oracles will be integrated into the Oracle Tree in the Character Sheet. The Ironsworn Classic and/or Ironsworn Delve rulesets must be enabled.
+
