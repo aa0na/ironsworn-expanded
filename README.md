@@ -24,9 +24,9 @@ https://github.com/aa0na/ironsworn-expanded/releases/latest/download/module.json
 
 ### Items
 
-* ![Moves](https://github.com/aa0na/ironsworn-expanded/releases/latest/download/docs/moves.png?raw=true)
-* Site Domain
-* Site Theme
+* ![Moves](https://github.com/aa0na/ironsworn-expanded/blob/main/docs/moves.png?raw=true)
+* ![Site Domain](https://github.com/aa0na/ironsworn-expanded/blob/main/docs/site_domain.png?raw=true)
+* ![Site Theme](https://github.com/aa0na/ironsworn-expanded/blob/main/docs/site_theme.png?raw=true)
 
 ### Oracles
 
