@@ -24,6 +24,8 @@ https://github.com/aa0na/ironsworn-expanded/releases/latest/download/module.json
 
 ### Items
 
+![Items](https://github.com/aa0na/ironsworn-expanded/blob/main/docs/items.png?raw=true)
+
 <details>
   <summary>Custom Moves</summary>
   <img src="https://github.com/aa0na/ironsworn-expanded/blob/main/docs/moves.png">
@@ -43,10 +45,7 @@ https://github.com/aa0na/ironsworn-expanded/releases/latest/download/module.json
 
 By default, the Ironsmith Oracles will be integrated into the Oracle Tree in the Character Sheet. The Ironsworn Classic and/or Ironsworn Delve rulesets must be enabled.
 
-<details>
-  <summary>Encounter Index</summary>
-  <img src="https://github.com/aa0na/ironsworn-expanded/blob/main/docs/oracles.png">
-</details>
+![Encounter Index](https://github.com/aa0na/ironsworn-expanded/blob/main/docs/oracles.png?raw=true)
 
 <details>
   <summary>Character</summary>
@@ -92,3 +91,15 @@ By default, the Ironsmith Oracles will be integrated into the Oracle Tree in the
   <summary>Story</summary>
   <img src="https://github.com/aa0na/ironsworn-expanded/blob/main/docs/story.png">
 </details>
+
+## Import All Content
+
+* Right click on the compendum
+* Import All Content
+
+or copy into custom folders as desired
+
+## Custom Folders
+
+* Moves need to be in a folder called **Custom Moves**
+* Oracles need to be in a folder called **Custom Oracles**
